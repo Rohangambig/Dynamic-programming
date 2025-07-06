@@ -1,0 +1,1 @@
+search for target sum 494 question on leetcode
